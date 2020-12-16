@@ -1,0 +1,28 @@
+.NotFoundPageWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.ErrorImg {
+  width: 100%;
+  position: relative;
+}
+
+.HomeLink {
+  position: absolute;
+  top: 1054px;
+  left: 654px;
+  color: #f5beec;
+  font-size: 25px;
+  font-weight: 600;
+  border: 3px solid #ee84e0;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+.HomeLink:hover {
+  color: #9dfbfc;
+  border: 3px solid #9dfbfc;
+
+}

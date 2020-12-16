@@ -1,0 +1,16 @@
+.filmCard{
+
+  margin: 20px auto;
+  width: 50%;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: #fff;
+
+  position: relative;
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+  margin-bottom: 60px;
+}
+
+.details{
+font-weight: 700;
+}

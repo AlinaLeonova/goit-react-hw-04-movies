@@ -1,0 +1,12 @@
+.navbar{
+    align-items: center;
+    height: 60px;
+    display: flex;
+    padding-left: 50px;
+    background: #000;
+    margin: 0;
+}
+.navbarItem{
+    padding-right: 40px;
+    font-size: larger;
+}
